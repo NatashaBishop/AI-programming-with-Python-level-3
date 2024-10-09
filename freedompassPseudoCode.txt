@@ -1,0 +1,11 @@
+Input 'What is your Age'
+Input 'What is your City'
+
+IF Age >= 65 AND City == London 
+THEN
+OUTPUT 'You are entitled to Freedom Pass on all TFL'
+ELSE IF Age >= 65 AND City !== London
+OUTPUT 'You are entitled to Free Bus Pass'
+ELSE
+OUTPUT 'You are not entitled to free travel'
+
