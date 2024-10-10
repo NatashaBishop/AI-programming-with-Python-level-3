@@ -1,4 +1,5 @@
 # matrix is list of lists
+#https://www.geeksforgeeks.org/python-matrix/
 
 # task 1: create 2 matrix with 5 interger each
 #iterate through and print out one of the matrix using for loop
