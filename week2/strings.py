@@ -21,4 +21,15 @@ print(int(x+y))
 print(int(x)+int(y))
 hello='hello'
 print(hello*5) #output: hellohellohellohellohello
+#print(hello[5]) #IndexError: string index out of range
+print(hello[0]) #output: H
+#len
+word_length=len("Hello")
+print(word_length)
+
+#print street address:
+house_num=5
+str='my street'
+town='my town'
+print("my address is:"+ " " str(house_num)+" "+str+" "+town)
 
