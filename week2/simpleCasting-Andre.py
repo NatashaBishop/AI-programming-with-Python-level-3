@@ -1,0 +1,7 @@
+x=int(3.8)
+print(x)
+y=float(4)
+print(y)
+print(type(x))
+print(x/y)
+print(float(2344-234))
