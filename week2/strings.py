@@ -10,7 +10,7 @@ print(Ford_quote)
 a='aaa'
 b='bbb'
 print(a+b)
-print(a+' '+b)
+print(a+' '+b) #print with space between
 
 #work with numbers as strings
 x='3'
