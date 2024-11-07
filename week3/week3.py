@@ -8,5 +8,6 @@ print(f"My name has {str(len(myName))} characters") #just another way
 #print("Hello, "+inputFromUser)
 
 #calculate age from DOB:
-age=2024-int(input("WHen was you bourn?:"))
-print("Hello, your age is: "+str(age))
+#age=2024-int(input("WHen was you bourn?:"))
+#print("Hello, your age is: "+str(age))
+
