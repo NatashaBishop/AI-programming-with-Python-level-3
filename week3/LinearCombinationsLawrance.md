@@ -24,6 +24,8 @@ Verify the result from the previous part by algebraically finding the weights c 
 g.	🔗  
 Can the vector [1.3−1.7] be expressed as a linear combination of v and ?w? What about the vector ?[15.27.1]?  
 h.	🔗  
-Are there any two-dimensional vectors that cannot be expressed as linear combinations of v and ?
+Are there any two-dimensional vectors that cannot be expressed as linear combinations of v and ? 
+
+
 
 
