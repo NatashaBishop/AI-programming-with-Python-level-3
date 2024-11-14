@@ -1,3 +1,6 @@
+submittion link: 
+https://vle.ncclondon.ac.uk/mod/turnitintooltwo/view.php?id=1131471
+https://vle.ncclondon.ac.uk/mod/turnitintooltwo/view.php?id=1131471&forceview=1 
 Linear Algebra Task  and Scenario
 Scenario: You are working on implementing a deep learning  application to predict house prices in a neighbourhood based on historical data. You have been instructed to submit a report on how Linear Algebra are used.
  
@@ -10,8 +13,6 @@ Describe how vectors can be used in programming with Python, including examples 
 You must use relevant OWN code to support  tasks 1,2,3,4,5
  
  
-Submit on VLE on 07/11/2024
- 
- 
-Submit on VLE on 07/11/2024
+Submit on VLE on 17/11/2024
+
  
