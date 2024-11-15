@@ -1,18 +1,18 @@
-Activity:  Fix the Quote  
+# Activity:  Fix the Quote  
 
 The line of code in the following quiz will cause a SyntaxError, thanks to the misuse of quotation marks.  First run it with Test Run to view the error message.  
 Then resolve the problem so that the quote (from Henry Ford is correctly assigned to the variable ford_quote.  
 
-# TODO: Fix this string!  
+### TODO: Fix this string!  
 
 ford_quote = “Whether you think you can, or you think you can’t you’re right.”  
 
- Answer:  
+ ## Answer:  
  ford_quote = “Whether you think you can, or you think you can\’t you\’re right.”  
 
  
 
-Activity:  Write a Server Log Message
+# Activity:  Write a Server Log Message
 
 In this programming quiz, you’re going to use what you’ve learned about strings to write a logging message for a server.  
 You’ll be provided with example data for a user, the time of their visit and the site they accessed. 
