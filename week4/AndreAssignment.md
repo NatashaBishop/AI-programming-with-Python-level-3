@@ -21,15 +21,12 @@ replaced with values from the appropriate variables):
 Yogesh accessed the site http://petshop.com/pets/reptiles/pythons at 16:20.  
 Username = “Kinari”  
 Timestamp = “04:50”  
-url = http://petshop.com/pets/mammals/cats  
-
-## Answer:    
-
-
+url = http://petshop.com/pets/mammals/cats   
 #### TODO: write a Log message using the variables above.  
 #### The message should have the same format as this one:  
 Yogesh accessed the site http://petshop.com/pets/reptiles/pythons at 16:20.  
-
+## Answer:   
+I am here
  
 # Activity:  Len()
 
