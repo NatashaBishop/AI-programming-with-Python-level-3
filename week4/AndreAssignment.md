@@ -23,15 +23,15 @@ Username = “Kinari”
 Timestamp = “04:50”  
 url = http://petshop.com/pets/mammals/cats  
 
-Answer:    
+## Answer:    
 
 
-# TODO: write a Log message using the variables above.  
-# The message should have the same format as this one:  
+#### TODO: write a Log message using the variables above.  
+#### The message should have the same format as this one:  
 Yogesh accessed the site http://petshop.com/pets/reptiles/pythons at 16:20.  
 
  
-Activity:  Len()
+# Activity:  Len()
 
 Use string concatenation and the len() function to find the length of a certain movie star’s actual full name.  Store that length in the name_length variable. Don’t forget that there are spaces in between the different parts of a name!
 
@@ -41,13 +41,13 @@ Middle_names = “Bradley”
 
 Family_name = “Pitt”
 
-# Todo: calculate how long this name is
+## Todo: calculate how long this name is
 
 Name_length = None  # Replace ‘None’ with your code
 
-# Now we check to make sure that the name fits within the driving licence character limit
+### Now we check to make sure that the name fits within the driving licence character limit
 
-# Uncomment the code below.  You don’t need to make changes to the code
+#### Uncomment the code below.  You don’t need to make changes to the code
 
 Driving_licence_character_limit = 28
 
@@ -57,7 +57,7 @@ Print(Name_length <=   Driving_licence_character_limit)
 
  
 
-Activity:  Type Playground
+# Activity:  Type Playground  
 
 Use the programming space below to experiment with types of objects. Don’t forget to use the print to see the output of your code
 
@@ -69,7 +69,7 @@ Print(type(x))
 
  
 
-Activity: Total Sales
+# Activity: Total Sales  
 
 In this quiz, you’ll need  to change the types of the input and output data in order to get the result you want.
 
