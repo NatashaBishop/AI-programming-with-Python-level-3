@@ -21,34 +21,35 @@ replaced with values from the appropriate variables):
 Yogesh accessed the site http://petshop.com/pets/reptiles/pythons at 16:20.  
 Username = “Kinari”  
 Timestamp = “04:50”  
-url = http://petshop.com/pets/mammals/cats   
+url = "http://petshop.com/pets/mammals/cats"     
 #### TODO: write a Log message using the variables above.  
 #### The message should have the same format as this one:  
 Yogesh accessed the site http://petshop.com/pets/reptiles/pythons at 16:20.  
-## Answer:   print=("{} accessed the site {} at {}.".format(Username,url,Timestamp))
+## Answer V.1:   
+print=("{} accessed the site {} at {}.".format(Username,url,Timestamp))
+## Answer V.2:   
+print(f'{Username} accessed the site {url} at {Timestamp}.')   
 
- 
 # Activity:  Len()
-I am here
+
 Use string concatenation and the len() function to find the length of a certain movie star’s actual full name.  Store that length in the name_length variable. Don’t forget that there are spaces in between the different parts of a name!
 
 Given_name = “William”
-
 Middle_names = “Bradley”
-
 Family_name = “Pitt”
 
 ## Todo: calculate how long this name is
-
 Name_length = None  # Replace ‘None’ with your code
+## Answer:  
+Name_length = len()
+
 
 ### Now we check to make sure that the name fits within the driving licence character limit
 
 #### Uncomment the code below.  You don’t need to make changes to the code
 
 Driving_licence_character_limit = 28
-
-Print(Name_length <=   Driving_licence_character_limit)
+Print(Name_length <= Driving_licence_character_limit)
 
  
 
