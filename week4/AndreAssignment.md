@@ -41,7 +41,7 @@ Family_name = “Pitt”
 ## Todo: calculate how long this name is
 Name_length = None  # Replace ‘None’ with your code
 ## Answer:  
-Name_length = len()
+Name_length = len(Given_name+Given_name+Family_name)+2
 
 
 ### Now we check to make sure that the name fits within the driving licence character limit
@@ -51,9 +51,6 @@ Name_length = len()
 Driving_licence_character_limit = 28
 Print(Name_length <= Driving_licence_character_limit)
 
- 
-
- 
 
 # Activity:  Type Playground  
 
