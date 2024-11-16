@@ -64,5 +64,5 @@ Tues_sales = “105”
 Wed_sales = “110”  
 Thurs_sales = “98”  
 Fri_sales = “95”  
-##Answer:  
+## Answer:  
 print(f' This week\'s total sales: {int(Mon_sales)+int(Tues_sales)+int(Wed_sales)+int(Thurs_sales)+int(Fri_sales)} ')  
