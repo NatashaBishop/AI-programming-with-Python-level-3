@@ -9,3 +9,5 @@ Thurs_sales = '98'
 Fri_sales = '95'
 
 print(f' This week\'s total sales: {int(Mon_sales)+int(Tues_sales)+int(Wed_sales)+int(Thurs_sales)+int(Fri_sales)} ')
+
+#int(Mon_sales) - we need 2 cast strings in2 interges to perform addition
