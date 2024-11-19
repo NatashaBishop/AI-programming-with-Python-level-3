@@ -1,6 +1,7 @@
 #answer format: “ This week’s total sales: xxx” . 
 # #you need to take care of the spaces to get the correct answer. 
 # Don’t forget  to include a space after the colon “: “.
+# in this scenario the data could have been taken from a user input, which is passed as a string as a defoult
 
 Mon_sales = '121'
 Tues_sales = '105'
