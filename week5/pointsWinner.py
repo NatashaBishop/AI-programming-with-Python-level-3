@@ -1,3 +1,4 @@
+#desision making on points based on user entry
 points=int(input('WHat is your points\' balance? '))
                  
 if points<=50 and points>=1:
