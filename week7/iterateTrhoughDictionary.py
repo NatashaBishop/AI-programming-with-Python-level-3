@@ -19,4 +19,6 @@ for i in basket_items:
             resultFruits=resultFruits+basket_items.get(i)
         elif:
             resultNonFruits=resultNonFruits+basket_items.get(i)
-print(f"resultFruits+resul: "+{resultFruits}+ "resultNonFruits"+{resultNonFruits})
+print(f"Fruits in basket: "+{resultFruits})
+print(f"Not fruits in basket: "+{resultNonFruits})
+#all items?
