@@ -30,3 +30,17 @@ while Start_num < End_num-2:
         Start_num = Start_num+Count_by
     
 print(Start_num)
+
+#Activty: Nearest Square
+# Write a while loop that finds the largest square number less than an integer 
+# limit and stores it in avariable nearest_square. A square number is the product of an integer multiplied by itself, 
+# forexample 36 is a square number because if equals 6*6For example, if limit is 40, your code should set the nearest_square to 36.
+
+Limit = 40 # provide a limit, replace 40 with a number you choose# write your while loop here
+
+num=0
+#while square <Limit-Start_num:
+while (num+1)**2 <Limit:
+    num +=1
+nearest_square=num**2
+print(nearest_square)
