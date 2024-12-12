@@ -23,7 +23,7 @@ Count_by = 2
 # # write a while loop that uses 
 # break_num as the ongoing number to check against End_num
 Break_num = None # replace None with the appropriate code
-while Start_num > 5 and End_num<100:
+while Start_num < End_num-2:
     if Start_num>End_num:
         print('Oops! Looks like your start value is greater than the endvalue. Please try again.')
     else:
