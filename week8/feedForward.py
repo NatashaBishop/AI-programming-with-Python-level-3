@@ -1,8 +1,11 @@
 import numpy as np
-#define the neuro network arcitecture:
+#in next exersise define the neuro network arcitecture
 
+#in this
+#define variables to hold vector data:
+#list to hold input layer data
 x_var = [1,-0.5,3]
-
+#2d matrix to hold data for waits for hidden layer:
 w1_waits = [[1,2,-2],
             [3,-2,2],
             [-1,2,4]]
