@@ -9,6 +9,7 @@ x_var = [1,-0.5,3]
 w1_waits = [[1,2,-2],
             [3,-2,2],
             [-1,2,4]]
+#list to hold data for waits for output layer:
 w2_waits = [-6, 10, 10]
 
 x = np.array(x_var)
