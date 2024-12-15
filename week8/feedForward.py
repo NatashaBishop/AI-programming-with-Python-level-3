@@ -12,8 +12,8 @@ w1_waits = [[1,2,-2],
 #list to hold data for waits for output layer:
 w2_waits = [-6, 10, 10]
 
-x = np.array(x_var)
-w1 = np.array(w1_waits)
+x = np.array(x_var) #converting list data into vector
+w1 = np.array(w1_waits) #
 w2 = np.array(w2_waits)
 b4_hidden_layer = np.dot(x,w1)
 #print(b4_hidden_layer)
