@@ -13,9 +13,9 @@ w1_waits = [[1,2,-2],
 w2_waits = [-6, 10, 10]
 
 x = np.array(x_var) #converting list data into vector
-w1 = np.array(w1_waits) #
-w2 = np.array(w2_waits)
-b4_hidden_layer = np.dot(x,w1)
+w1 = np.array(w1_waits) #vectorize waits
+w2 = np.array(w2_waits) #vectorize waits
+b4_hidden_layer = np.dot(x,w1) #dot product of x and w1
 #print(b4_hidden_layer)
 def relu(X):
     return np.maximum(0,X)
