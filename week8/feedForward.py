@@ -17,6 +17,7 @@ w1 = np.array(w1_waits) #vectorize waits
 w2 = np.array(w2_waits) #vectorize waits
 b4_hidden_layer = np.dot(x,w1) #dot product of x and w1
 #print(b4_hidden_layer)
+#relu is changing negative numbers to zero, getting rid of them
 def relu(X):
     return np.maximum(0,X)
 hidden_layer_after_relu = relu(b4_hidden_layer) # hERE YOU APPLIED relu on the sum of the products of the input data and the weight from input to the hidden layer
