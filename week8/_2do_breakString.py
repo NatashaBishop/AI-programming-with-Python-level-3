@@ -11,3 +11,17 @@ headlines = ["Local Bear Eaten by Man",  "Legislature Announces New Laws", "Peas
 news_ticker = ""
 '''
 
+headlines = ["Local Bear Eaten by Man",  "Legislature Announces New Laws", "Peasant Discovers Violence Inherent in System", "Cat Rescues Fireman Stuck in Tree", "Brave Knight Runs Away", "Papperbok Review: Totally Triffic"] 
+
+news_ticker = ""
+for headline in headlines:
+    if len(news_ticker) + len(headline) + 1 > 140:  # +1 accounts for the space
+        remaining_space = 140 - len(news_ticker) - 1
+        news_ticker += headline[:remaining_space]
+        break
+    news_ticker += headline + " "
+
+# Ensure the news_ticker is exactly 140 characters long
+news_ticker = news_ticker[:140]
+
+print(news_ticker)
