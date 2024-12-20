@@ -22,7 +22,7 @@ def relu(X):
     return np.maximum(0,X)
 hidden_layer_after_relu = relu(b4_hidden_layer) # hERE YOU APPLIED relu on the sum of the products of the input data and the weight from input to the hidden layer
 
-output_b4_relu = np.dot(hidden_layer_after_relu,w2)
+output_b4_relu = np.dot(hidden_layer_after_relu,w2) #after applying relu to hidden layer, we are getting dot product from that result and vectorized waits for output layer
 
 #print(output_b4_relu)
 output = relu(output_b4_relu)
