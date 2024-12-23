@@ -1,5 +1,5 @@
 import numpy as np
-# Activation function (ReLU)
+# Activation function (ReLU). relu takes negatives and turns them into zeros
 def relu(x):
     return np.maximum(0, x)
 #Derivative of Sigmoid
