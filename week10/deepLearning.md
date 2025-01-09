@@ -12,6 +12,6 @@ Deep learning allows computational models that are composed of multiple processi
 
 
 References:  
-* https://cloud.google.com/discover/what-is-deep-learning  
+*https://cloud.google.com/discover/what-is-deep-learning  
 **https://www.ibm.com/think/topics/deep-learning  
 ***https://www.nature.com/articles/nature14539  
