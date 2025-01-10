@@ -12,3 +12,13 @@ for i in zip(labels,x_coord,y_coord,z_coord):
 
 for i in points:
     print(i)
+'''Output:
+
+F: 23, 677, 4
+J: 53, 233, 16
+A: 2, 405, -6
+Q: -12, 433, -42
+Y: 95, 905, 3
+B: 103, 376, -6
+W: 14, 432, 23
+X: -5, 445, -1
