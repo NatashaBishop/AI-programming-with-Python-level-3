@@ -12,8 +12,8 @@ for i in zip(labels,x_coord,y_coord,z_coord):
 
 for i in points:
     print(i)
+	
 '''Output:
-
 F: 23, 677, 4
 J: 53, 233, 16
 A: 2, 405, -6
